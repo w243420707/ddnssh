@@ -37,7 +37,7 @@ CFUSER=yooyu@msn.com
 CFZONE_NAME=fly64jfgwhale.xyz
 
 # Hostname to update, eg: homeserver.example.com
-CFRECORD_NAME=xgzz6.fly64jfgwhale.xyz
+CFRECORD_NAME=hk66ipz5iy3gdnslbl.fly64jfgwhale.xyz
 
 # Record type, A(IPv4)|AAAA(IPv6), default IPv4
 CFRECORD_TYPE=A
